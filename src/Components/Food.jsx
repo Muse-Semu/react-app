@@ -124,7 +124,7 @@ function Food() {
                       {item.name}
                     </p>
                     <p className="text-white px-3 bottom-3 right-3 rounded-lg bg-orange-600 text-1xl">
-                      {item.price}
+                      {item.price} ETB
                     </p>
                   </div>
                 </div>
