@@ -22,6 +22,7 @@ function App() {
           element={
             <div>
               <Hero />
+              <Food />
               <HeadLineCardsComponent />
             </div>
           }
